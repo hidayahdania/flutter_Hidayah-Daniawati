@@ -1,0 +1,1 @@
+kesimpulan dari pelatihan
