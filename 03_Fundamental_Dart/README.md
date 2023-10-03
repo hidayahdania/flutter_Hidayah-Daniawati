@@ -10,7 +10,7 @@ Keuntungan menggunakan Dart:
 1. Menjamin konsistensi tipe data
 2. Memberi keamanan dari data bernilai hampa(null)
 3. Hadir dengan banyak dukungan library internal
-4. Mamapu berjalan pada berbagai jenis perangkat.
+4. Mampu berjalan pada berbagai jenis perangkat.
 
 Tipe Data:
 1. int
