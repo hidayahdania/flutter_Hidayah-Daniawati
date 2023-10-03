@@ -1,7 +1,4 @@
-# flutter_hidayah-daniawati
-Pengumpulan Tugas Flutter Alterra
-
-Introduction Mobile App Development
+# Introduction Mobile App Development
 
 Software adalah perangkat lunak yang tersimpan dan dapat dikendalikan pada sistem komputer.
 
