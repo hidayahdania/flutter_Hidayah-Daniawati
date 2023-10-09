@@ -23,4 +23,4 @@ Do-While
 - Dapat digunakan berkali=kali
 - Cukup mengubah fungsi sekali, penggunaan lainhya akan ikut berubah
 
-Terimakasihh
+Terimakasihhh
