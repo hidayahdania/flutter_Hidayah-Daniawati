@@ -31,4 +31,4 @@ Method
 - Aktivitas yang dapat dikerjakan suatu class
 - Memiliki sifat seperti fungsi
 
-Terimakasih
+Terimakasihh
